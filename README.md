@@ -1,3 +1,3 @@
 # tetris
 
-A tetris clone made from using python and pygame. To play, run view.py.
+A tetris clone made from python and pygame. To play, run view.py.
