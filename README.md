@@ -2,4 +2,4 @@
 
 A tetris clone made from python and pygame. To play, run view.py.
 
-<a href="https://imgflip.com/gif/4t9ck1"><img src="https://imgflip.com/embed/4t9ck1.gif"/></a>
+![tetris](https://user-images.githubusercontent.com/52221230/104116562-74211d80-52ce-11eb-810b-4b2d289be200.gif)
